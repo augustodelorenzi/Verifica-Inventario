@@ -1,0 +1,36 @@
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\verifica - inventario.csproj.AssemblyReference.cache
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\verifica___inventario.Form1.resources
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\verifica - inventario.csproj.GenerateResource.cache
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\verifica - inventario.GeneratedMSBuildEditorConfig.editorconfig
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\verifica - inventario.AssemblyInfoInputs.cache
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\verifica - inventario.AssemblyInfo.cs
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\verifica - inventario.csproj.CoreCompileInputs.cache
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\verifica - inventario.exe
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\verifica - inventario.deps.json
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\verifica - inventario.runtimeconfig.json
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\verifica - inventario.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\verifica - inventario.pdb
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\Google.Protobuf.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\MySql.Data.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\System.Text.Json.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\ZstdSharp.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\verifica - inventario.csproj.CopyComplete
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\verifica - inventario.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\refint\verifica - inventario.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\verifica - inventario.pdb
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\verifica - inventario.genruntimeconfig.cache
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\ref\verifica - inventario.dll
+G:\Altri computer\A\2'IOT\2  IOT\01- sv. app   firmware\sv. app\visual stdio\win. app. forms\Mysql_conn\verifiche\verifica - inventario\obj\Debug\net6.0-windows\verifica___inventario.Form2.resources
